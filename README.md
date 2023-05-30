@@ -1,1 +1,1 @@
-# next-base-app-v2
+# your-project-name
